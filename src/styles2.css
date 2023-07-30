@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#game-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#start-screen,
+#end-screen {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+}
+
+#start-screen button,
+#end-screen button {
+  padding: 12px 24px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#end-screen {
+  display: none;
+}
