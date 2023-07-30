@@ -1,3 +1,4 @@
+
 # Zero-Zombie-3.0
 
 Introduction:
@@ -8,7 +9,7 @@ The game was developed using the Phaser 3 framework, a popular JavaScript librar
 
 
 ![zzfeatures](https://github.com/Hersheath/Zero-Zombie-3.0/assets/97139388/5c379530-7ee9-49b0-9841-c4b39ca21ed6)
-
+![zzfeatures2](https://github.com/Hersheath/Zero-Zombie-3.0/assets/97139388/9ff58ed5-44b8-42ce-a86d-41c3f1792b98)
 
 Tools Used:
 1. Phaser 3: The main game engine used for developing the game, handling physics, animations, and asset loading.
